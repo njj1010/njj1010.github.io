@@ -83,3 +83,6 @@ div.boxcollective{
     margin: 20px; 
     float: left;
   }
+  img.card-img-top{
+    image-resolution: 50dpi;
+  }
