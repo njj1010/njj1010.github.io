@@ -77,6 +77,7 @@ div.boxcollective{
       margin: 20px;
       width: 600px;
       float: left;
+      image-resolution: 100dpi;
   }
 #welcome{
     width: 500px;
