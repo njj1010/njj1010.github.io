@@ -58,7 +58,7 @@ p.info{
     border-color: black;
 }
 div.card{
-    float: left;
+    /* float: left; */
     margin: 1vw;
     display: inline-block;
 }
@@ -68,3 +68,18 @@ div.boxcollective{
     justify-content: center;
     flex-wrap: wrap;
 }
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  #jjinfield{
+      margin: 20px;
+      width: 600px;
+      float: left;
+  }
+#welcome{
+    width: 500px;
+    margin: 20px; 
+    float: left;
+  }
