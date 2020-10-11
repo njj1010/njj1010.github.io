@@ -87,3 +87,10 @@ div.boxcollective{
   img.card-img-top{
     image-resolution: 50dpi;
   }
+
+  #main{
+
+        max-width: 100%;
+        height: auto;
+
+  }
